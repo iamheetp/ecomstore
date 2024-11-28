@@ -72,10 +72,10 @@
         <mxCell id="znNQXt6oiHb2Llr82gNU-2" value="PerformanceID(pk)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="znNQXt6oiHb2Llr82gNU-1" vertex="1">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="znNQXt6oiHb2Llr82gNU-3" value="date" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="znNQXt6oiHb2Llr82gNU-1" vertex="1">
+        <mxCell id="znNQXt6oiHb2Llr82gNU-3" value="PerformanceDate" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="znNQXt6oiHb2Llr82gNU-1" vertex="1">
           <mxGeometry y="52" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="znNQXt6oiHb2Llr82gNU-4" value="time" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="znNQXt6oiHb2Llr82gNU-1" vertex="1">
+        <mxCell id="znNQXt6oiHb2Llr82gNU-4" value="PerformanceTime" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="znNQXt6oiHb2Llr82gNU-1" vertex="1">
           <mxGeometry y="78" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="znNQXt6oiHb2Llr82gNU-5" value="availableSeats" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="znNQXt6oiHb2Llr82gNU-1" vertex="1">
